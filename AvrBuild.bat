@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel2\Studio\AvrAssembler2\avrasm2.exe" -S "C:\Users\msi\Desktop\Term6\az micro\project 1\Q2\labels.tmp" -fI -W+ie -C V2E -o "C:\Users\msi\Desktop\Term6\az micro\project 1\Q2\proj2.hex" -d "C:\Users\msi\Desktop\Term6\az micro\project 1\Q2\proj2.obj" -e "C:\Users\msi\Desktop\Term6\az micro\project 1\Q2\proj2.eep" -m "C:\Users\msi\Desktop\Term6\az micro\project 1\Q2\proj2.map" "C:\Users\msi\Desktop\Term6\az micro\project 1\Q2\proj2.asm"
